@@ -17,3 +17,5 @@ The program transforms the augmented matrix into an upper triangular form using 
 # Output:
 1- The solution (values of the unknowns) is displayed after performing the calculations.
 
+# Contact
+Send any queries to Reza Nopour (rezanopour@gmail.com).
