@@ -1,5 +1,5 @@
 # Gaussian-elimination
-This C++ code implements the Gaussian elimination method to solve a system of linear equations.
+This C++/Python code implements the Gaussian elimination method to solve a system of linear equations.
 
 # Input:
 1- The user specifies the number of unknowns (variables) in the system of linear equations.
